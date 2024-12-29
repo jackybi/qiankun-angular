@@ -4,5 +4,10 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="single-spa" level="application" />
+    <orderEntry type="library" name="core-js-bundle" level="application" />
+    <orderEntry type="library" name="zone.js" level="application" />
+    <orderEntry type="library" name="import-map-overrides" level="application" />
+    <orderEntry type="library" name="systemjs" level="application" />
   </component>
 </module>
